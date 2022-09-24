@@ -1,3 +1,4 @@
+# Решение задачи на форматирование строк 3 способами
 name = input('Your name: ')
 age = input('Your age: ')
 city = input('Your city: ')
